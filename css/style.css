@@ -102,7 +102,7 @@ h5 a,
 h6 a {
     color: #212121;
     text-decoration: none!important;
-    opacity: 1
+    opacity: 1;
 }
 
 button:focus {
@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(/img/Untitled11_20230524180741.png);
+    background-image: url(/img/background1.jpg);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -234,7 +234,7 @@ button {
 }
 
 .bg-light {
-    opacity: 80%;
+    opacity: 70%;
     background-color: #d8da49;
 }
 
@@ -243,11 +243,11 @@ button {
     margin: 0 auto;
     text-align: center;
 }
-
+/* pengaturan navbar */
 .navbar-expand-lg .navbar-nav .nav-link {
     padding: 3px 10px;
     font-size: 17px;
-    color: #a9a8a8;
+    color: #a0a0a0;
     border-radius: 5px;
     text-transform: uppercase;
     position: relative;
@@ -276,7 +276,7 @@ button {
     overflow: hidden;
     position: fixed;
     width: 100%;
-    z-index: 1;
+    z-index: 1;;
     transition: top 0.3s;
 
 }
@@ -509,10 +509,10 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #d78373;
+    color: #c8d773;
     text-align: center;
     border-radius: 5px;
-    border: 1px solid #d78373;
+    border: 1px solid #d7d573;
     text-transform: uppercase;
     padding: 8px;
 }
@@ -530,7 +530,7 @@ button {
 #main_slider a.carousel-control-next {
     right: -50px;
     top: 95px;
-    color: #fefefd;
+    color: #000000;
     background-color: #4a4949;
 }
 
@@ -626,10 +626,10 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #d78373;
+    color: #d8da49;
     text-transform: uppercase;
     border-radius: 5px;
-    border: 1px solid #fc947f;
+    border: 1px solid #d8da49;
     padding: 10px;
     border-radius: 5px;
     text-align: center;
