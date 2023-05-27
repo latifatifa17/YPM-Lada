@@ -215,7 +215,7 @@ button {
 .header_section {
     width: 100%;
     float: left;
-    background-image: url(/Lada/img/Untitled11_20230524180741.png);
+    background-image: url(/img/Untitled11_20230524180741.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
@@ -224,7 +224,7 @@ button {
 .header_bg {
     width: 100%;
     float: left;
-    background-image: url(/Lada/images/header-bg.png);
+    background-image: url(/images/header-bg.png);
     height: auto;
     background-size: 100%;
     background-repeat: no-repeat;
