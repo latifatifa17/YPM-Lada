@@ -27,7 +27,7 @@ html {
 }
 
 body {
-    color: #fff700;
+    color: #fff600;
     font-size: 14px;
     font-family: 'Poppins', sans-serif;
     line-height: 1.80857;
@@ -36,7 +36,7 @@ body {
 }
 
 a {
-    color: #ffff00;
+    color: #fff600;
     text-decoration: none !important;
     outline: none !important;
     -webkit-transition: all .3s ease-in-out;
@@ -58,7 +58,7 @@ h6 {
     padding: 0 0 10px 0;
     font-weight: normal;
     line-height: normal;
-    color: #d8da49;
+    color: #fff600;
     margin: 0
 }
 
@@ -235,7 +235,7 @@ button {
 
 .bg-light {
     opacity: 70%;
-    background-color: #d8da49;
+    background-color: #fff600;
 }
 
 .mr-auto,
@@ -297,7 +297,7 @@ button {
 .login_bt li a {
     float: left;
     font-size: 18px;
-    color: #d8da49;
+    color: #fff600;
     text-transform: uppercase;
     padding: 0px 0px 0px 50px;
 }
@@ -335,7 +335,7 @@ button {
     width: 100%;
     float: left;
     font-size: 24px;
-    color: #d8da49;
+    color: #fff600;
     font-weight: bold;
 }
 
@@ -362,7 +362,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d8da49;
+    background-color: #fff600;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -383,7 +383,7 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    background-color: #d8da49;
+    background-color: #fff600;
     color: #fefefd;
     text-align: center;
     padding: 12px;
@@ -509,10 +509,10 @@ button {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #c8d773;
+    color: #fff600;
     text-align: center;
     border-radius: 5px;
-    border: 1px solid #d7d573;
+    border: 1px solid #fff600;
     text-transform: uppercase;
     padding: 8px;
 }
@@ -626,10 +626,10 @@ button {
     width: 100%;
     float: left;
     font-size: 18px;
-    color: #d8da49;
+    color: #fff600;
     text-transform: uppercase;
     border-radius: 5px;
-    border: 1px solid #d8da49;
+    border: 1px solid #fff600;
     padding: 10px;
     border-radius: 5px;
     text-align: center;
@@ -732,7 +732,7 @@ textarea#comment.massage-bt::placeholder {
     text-align: center;
     font-size: 16px;
     color: #fefefd;
-    background-color: #d8da49;
+    background-color: #fff600;
     padding: 10px;
     text-transform: uppercase;
     margin-top: 20px;
@@ -809,7 +809,7 @@ textarea#comment.massage-bt::placeholder {
 }
 
 .location_text li a:hover {
-    color: #d8da49;
+    color: #fff600;
 }
 
 .padding_left_10 {
@@ -843,7 +843,7 @@ textarea#comment.massage-bt::placeholder {
     float: left;
     padding: 5px 10px;
     background-color: #fff;
-    color: #d8da49;
+    color: #fff600;
     border-radius: 100%;
     font-size: 19px;
     margin-right: 5px;
@@ -896,14 +896,14 @@ textarea#comment.update_mail::placeholder {
     color: #ffffff;
     font-size: 16px;
     padding: 13px 0px 14px 0px;
-    background-color: #d8da49;
+    background-color: #fff600;
     text-transform: uppercase;
     text-align: center;
 }
 
 .subscribe_bt a:hover {
     color: #363636;
-    background-color: #d8da49;
+    background-color: #fff600;
 }
 
 
@@ -915,7 +915,7 @@ textarea#comment.update_mail::placeholder {
 .copyright_section {
     width: 100%;
     float: left;
-    background-color: #d8da49;
+    background-color: #fff600;
     height: auto;
 }
 
